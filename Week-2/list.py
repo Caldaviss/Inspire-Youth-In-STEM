@@ -13,7 +13,7 @@ print(names[2])
 
 print(names[0:3])
 
-fruits=["mangoes","oranges","apples",]
+fruits=["mangoes","oranges","apples"]
 
 print(fruits[0])
 
@@ -37,22 +37,54 @@ for shopping in shoppings:
 
 print("My name is " + names [0] + " and my favorite fruit is " + fruits[1])
 
+print(names[3])
+
+def thing ():
+    print("hello")
+    print("mealin")
+
+thing ()
+print ("zip")
+thing ()
 
 
 
-# How to push work into github
-git add
-git status
-git commit -m "lists in python"
-git push
+def cladi() :
+   print("shoes")
+   print("shirts")
+   print("trousers")
+
+
+cladi()
+
+big = max("Hello world")
+
+print(big)
+
+sval= "123"
+rws=int(sval)
+
+
+print(type (sval))
+
+
+print(type(rws))
+
+print(rws + 1)
 
 
 
 
 
 
+def greet(lang):
+    if lang == "es":
+        return("hola")
+    elif lang == "fr":
+        return("bonjuor")    
+    else:
+        return("hello")
 
 
 
-
-
+print(greet ("es"), "Glenn")
