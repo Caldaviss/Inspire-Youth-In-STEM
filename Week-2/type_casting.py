@@ -22,14 +22,12 @@ print(type(maths_grade))
 
 
 
+x=9.0
+print(type(x))
 
 
 
-
-
-
-
-
+mit
 
 
 
