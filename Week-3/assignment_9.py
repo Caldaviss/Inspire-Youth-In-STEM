@@ -6,6 +6,18 @@
 #count the remaining celebs in the list
 
 favorite_musicians=[]
+favorite_musicians.insert(input("Enter the name of the musician")):
+
+
+
+
+
+
+
+
+
+   
+
 
 
 
